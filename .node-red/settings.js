@@ -11,9 +11,6 @@
  *    https://nodered.org/docs/user-guide/runtime/configuration
  **/
 
-process.env.foofoofoofoo = 'michan456'
-process.env.foodfoodfoodfood = 'michan123'
-
 module.exports = {
     // the tcp port that the Node-RED web server is listening on
     uiPort: process.env.PORT || 8000,
