@@ -14,6 +14,7 @@
     "node-red-contrib-fs": "~1.4.1",
     "node-red-dashboard": "~2.28.1",
     "node-red-contrib-ui-svg": "~2.2.1",
-    "node-red-contrib-ui-led": "~0.4.9"
+    "node-red-contrib-ui-led": "~0.4.9",
+    "full-icu": "*"
   }
 }
